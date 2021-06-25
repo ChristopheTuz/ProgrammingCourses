@@ -9,6 +9,7 @@ Temas que se verán próximamente:
 	- Lenguaje C
 	- Lenguaje C++
 	- Lenguaje C#
+	- Python 3
 
 
 > Los hombres buenos y generosos, no crean victimas; cuidan de las victimas. - Julian Assange
