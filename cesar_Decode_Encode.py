@@ -1,3 +1,12 @@
+'''
+
+	TITULO: ROTn_Decode_Encode
+	FECHA: 260621
+	AUTOR: Everest
+	DESCRIPCIÓN: Poder realizar el cifrado Cesar o ROTn a una cadena de texto
+
+'''
+
 import os
 import platform
 
