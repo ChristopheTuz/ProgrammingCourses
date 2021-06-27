@@ -109,8 +109,9 @@ def decodeSet():
  
 def run():
  flag = True
+ systemD = systemDetect()
  while(flag==True):
-  clearScreen()
+  if(systemDetect == "Windows"): clearScreen()
   byEverest()
   try:
    print("\n============================= ROTn ==============================\n")
