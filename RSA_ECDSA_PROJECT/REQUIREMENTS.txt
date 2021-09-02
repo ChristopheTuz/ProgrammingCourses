@@ -1,0 +1,13 @@
+=== python 3 ===
+https://www.python.org/downloads/
+
+=== pip ===
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python get-pip.py
+python -m pip install --upgrade pip
+
+=== pycryptodome ===
+pip install pycryptodome
+
+=== pycoin ===
+pip install "pycoin==0.80"
